@@ -1,2 +1,1 @@
-# Build-a-basic-arithmetic-calculator-without-a-frontend
-Build a basic arithmetic calculator without a frontend
+file:///Users/admin/Downloads/DJANGO_COURSE_1.xx/Bootstrap/Boostrap_Project_Solutions/calculator.html
